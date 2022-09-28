@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SeegerDeG
+- 👀 I’m interested in learning how to develop software.
+- 🌱 I’m currently learning the basics of Github and understanding the fundamentals of beginner coding.
+- 💞️ I’m looking to collaborate on projects once I'm proficient. 
+- 📫 How to reach me @ seegerkent@gmail.com.
